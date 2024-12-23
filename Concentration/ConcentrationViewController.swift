@@ -69,8 +69,6 @@ class ConcentrationViewController: UIViewController {
     
     private var numberOfCards = 8 // Количество карточек в игре
     
-    private var currentTheme: Theme = FruitsTheme() // Тема по умолчанию
-    
     // Уровень сложности игры
     var difficultyLevel: Difficulty? { 
         didSet { 
