@@ -1,1 +1,1 @@
-# Mobile device architecture projects
+# Архитектуры мобильных систем 5 семестр
